@@ -10,7 +10,7 @@ l = rptObj.ui.links.link('data', 'www.google.fr', icon="fas fa-align-center", op
 rptObj.ui.layouts.new_line()
 
 # Add a badge
-b = rptObj.ui.images.badge("new")
+b = rptObj.ui.images.badge("new", background_color='red', color="white")
 l.append_child(b)
 
 # force new mepty line between two components on the page
