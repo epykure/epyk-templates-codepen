@@ -50,12 +50,22 @@ The below line of code added to a generic report will automatically open in the 
 rptObj.outs.browser.codepen(path=config.OUTPUT_PATHS)
 ```
 
+```py
+rptObj.outs.browser.stackblitz(path=config.OUTPUT_PATHS)
+```
+
 ##  Example
 
-Running the above code will open the below to your browser.
+Running the above code will open the below Codepen Notebook to your browser.
 
 <div align="center" >
     <img src="https://github.com/epykure/epyk-templates-codepen/blob/master/static/images/codepen_view.PNG?raw=true">
+</div>
+
+Running the above code will open the below Stackblitz Notebook to your browser.
+
+<div align="center" >
+    <img src="https://github.com/epykure/epyk-templates-codepen/blob/master/static/images/stackblitz.PNG?raw=true">
 </div>
 
 This will then allow you to get the result of your code and share the link in Stackoverflow for example.
