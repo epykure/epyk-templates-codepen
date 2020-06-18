@@ -6,16 +6,15 @@
 
 Epyk report can be shared and tested on Codepen.
 
-Presentation
-================================
+## Presentation
+
 As the main target of Epyk is to propose a fully collaborative way to develop and also share works one important milestone was
 to get fully integrated with the usual web ecosystem.
 
 As most of the implementation of Epyk have been done based on one tutorials (which are in the Framework documentation), it makes
 sense to reuse those containers to test and share work
 
-Usage
-================================
+## Usage
 
 Any report can be directly sent to codepen to share web artifacts.
 The Python code will not be sent online only the ouput transpiled in JS, HTML and CSS will be linked to codepen.
@@ -51,8 +50,7 @@ The below line of code added to a generic report will automatically open in the 
 rptObj.outs.browser.codepen(path=config.OUTPUT_PATHS)
 ```
 
-Example
-================================
+##  Example
 
 Running the above code will open the below to your browser.
 
@@ -63,8 +61,7 @@ Running the above code will open the below to your browser.
 This will then allow you to get the result of your code and share the link in Stackoverflow for example.
 
 
-Collaborative Framework !
-================================
+## Collaborative Framework !
 
 Epyk is first of all collaborative and per say it is fully integrated with the most common
 web platform to share your code and your questions.
