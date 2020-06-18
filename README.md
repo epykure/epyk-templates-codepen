@@ -4,7 +4,7 @@
 
 ### Epyk and CodePen!
 
-Epyk report can be shared on Codepen.
+Epyk report can be shared and tested on Codepen.
 
 Presentation
 ================================
@@ -54,11 +54,14 @@ rptObj.outs.browser.codepen(path=config.OUTPUT_PATHS)
 Example
 ================================
 
-This will open the code 
+Running the above code will open the below to your browser.
 
 <div align="center" >
     <img src="https://github.com/epykure/epyk-templates-codepen/blob/master/static/images/codepen_view.PNG?raw=true">
 </div>
+
+This will then allow you to get the result of your code and share the link in Stackoverflow for example.
+
 
 Collaborative Framework !
 ================================
@@ -70,7 +73,7 @@ This is dedicated to help and support any developer par of the community.
 With this design it make easy the sharing of issues or questions.
 
 <div align="center" >
-    <img src="https://github.com/epykure/epyk-templates-notebooks/blob/master/static/images/collaborative.PNG?raw=true">
+    <img width=500 src="https://github.com/epykure/epyk-templates-notebooks/blob/master/static/images/collaborative.PNG?raw=true">
 </div>
 
 Most of the documentation in the code is coming from W3School website.
