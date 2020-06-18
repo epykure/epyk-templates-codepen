@@ -2,7 +2,7 @@
 
 ![](./static/images/logo.png)
 
-### Epyk and CodePen!
+# Epyk and CodePen!
 
 Epyk report can be shared and tested on Codepen.
 
