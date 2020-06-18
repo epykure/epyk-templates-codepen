@@ -44,7 +44,7 @@ button2.css({"margin-left": '5px'})
 # Transpile to JavaScriot and create a report in codepen (python will automatically open the default browser)
 rptObj.outs.browser.codepen(path=config.OUTPUT_PATHS)
 ```
-The below line of code added to a generic report will automatically open in the browser the output to a codepen.
+The below line of code added to a generic report will automatically open in the browser the output to a Codepen and Stackblitz.
 
 ```py
 rptObj.outs.browser.codepen(path=config.OUTPUT_PATHS)
